@@ -21,7 +21,7 @@
 ## Тренажери
 
 * [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US&utm_source=chatgpt.com)
-* [Oh My Git!](https://ohmygit.org/0)
+* [Oh My Git!](https://ohmygit.org)
 ## Корисні репозиторії
 
 * https://github.com/sajal2692?tab=overview&from=2025-02-01&to=2025-02-11
