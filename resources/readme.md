@@ -2,7 +2,7 @@
 
 ## Завантаження
 
-* [git + git Bash](https://git-scm.com/)
+* git + git Bash ----- https://git-scm.com/
 * [VS Code](https://code.visualstudio.com/)
 * [GitHub Desktop](https://github.com/apps/desktop)
 
